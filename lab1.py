@@ -38,4 +38,4 @@ zad9 = np.sum(zad2[3:5, 0:5])
 
 # 10. Przygotować skrypt, który stworzy tensor zawierający losowe wartości całkowite, losowym wymiarze i losowym rozmiarze każdego z wymiarów
 
-print(zad8)
+print(zad9)
